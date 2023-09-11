@@ -13,6 +13,7 @@ This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.
 7. Vulnerability is everything. I am learning to be a better leader and contributor everyday. I do not know everything and I will ask questions. I expect you to do the same.
 8. I get anxious when I am late for meetings. I also see it as disrespectful to continuously be late for meetings. I will try to send you a note if it looks like I am going to be late. I will do my best to be on time.
 9. Data or death. Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to be, be data-driven and quantitative if possible. Avoid qualitative assessements when possible, especially when talking about engineering projects.
+10. I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
 
 ## Operating Approach
 

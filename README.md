@@ -7,15 +7,16 @@ This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.
 1. I value transparency. I will be as direct as I can with you. I am a straightforward leader and do not have time for games. For my leadership team, please carry this forward, as I expect you to embrace this as well.
 2. I am an introvert who likes to think through problems before passing judgement or making decisions. Bring information and data to our discussions to help me assist you in complex decision making.
 3. Collaboration and alignment is important. I do not try to make important decisions that impact our team in a black box. I will ask for your ideas and feedback. I may have an idea about an approach, but I will lean on my leadership team to bring points, facts, and data to our discussions to help inform the decision we make. If you do not bring ideas or feedback, I will make a decision with what data I have.
-4. I will not be able to persist our culture alone. I have hired you as a leader to help me with this. Please proactively lean into transparent, intentional, data-driven, and inclusive dialogue with your teams.
-5. I trust you in the job for which you were hired. If I feel you or your team is lost or confused, I will step in to help or address this. It would be best for you to bring challenges to me before you get stuck here. I expect you to reach out with problems. I dislike being surprised by things we could have avoided earlier.
-6. I dislike having to chase people for things they said they would do. Please be proactive and own items that you indicated you would. Follow through.
-7. Vulnerability is everything. I am learning to be a better leader and contributor everyday. I do not know everything and I will ask questions. I expect you to do the same.
-8. I get anxious when I am late for meetings. I also see it as disrespectful to continuously be late for meetings. I will try to send you a note if it looks like I am going to be late. I will do my best to be on time.
-9. Data or death. Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements when possible, especially when talking about engineering projects.
-10. I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
-11. I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
-12. I highly value proactivity and a willingness to own things. Don't wait for me to task you.
+4. I get excited about creative change and spontaneity. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible.
+5. I will not be able to persist our culture alone. I have hired you as a leader to help me with this. Please proactively lean into transparent, intentional, data-driven, and inclusive dialogue with your teams.
+6. I trust you in the job for which you were hired. If I feel you or your team is lost or confused, I will step in to help or address this. It would be best for you to bring challenges to me before you get stuck here. I expect you to reach out with problems. I dislike being surprised by things we could have avoided earlier.
+7. I dislike having to chase people for things they said they would do. Please be proactive and own items that you indicated you would. Follow through.
+8. Vulnerability is everything. I am learning to be a better leader and contributor everyday. I do not know everything and I will ask questions. I expect you to do the same.
+9. I get anxious when I am late for meetings. I also see it as disrespectful to continuously be late for meetings. I will try to send you a note if it looks like I am going to be late. I will do my best to be on time.
+10. Data or death. Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements when possible, especially when talking about engineering projects.
+11. I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
+12. I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
+13. I highly value proactivity and a willingness to own things. Don't wait for me to task you.
 
 ## Operating Approach
 

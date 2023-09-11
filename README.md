@@ -15,6 +15,7 @@ This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.
 9. Data or death. Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements when possible, especially when talking about engineering projects.
 10. I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
 11. I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
+12. I highly value proactivity and a willingness to own things. Don't wait for me to task you.
 
 ## Operating Approach
 

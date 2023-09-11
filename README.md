@@ -24,7 +24,7 @@ This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.
 3. If you are not my direct report, I still want to talk with you (whether or not you are in my team makes no difference). I do try to have several skip-level' meetings a month. But, to help with this, I have created an open invitation in [Google Calendar](https://calendar.app.google/sc7MGydo7mU1QStz8) for you to book. These are my open office hours. Come with any topic in mind. 
 4. Bi-weekly Team Lead Meetings: These will include both Engineering Domain Managers and Team Leads. I include an agenda in the calendar invite. I will ask you to be prepared for discussions, and for any specific preparation I will make a direct request in the #team-analytics-leads slack channel. I expect you to come prepared and I need you to participate. I deliberately include the full Analytics department leadership to help with transparecny and clarity in our dynamic field.
 5. Your teams:
-   - Help me celebrate the small and big wins. Share details with me directly. We have a Monthly Analytics Caucus and a monthly newsletter. This is a great chance to shout-out and share these winds as well.
+   - Help me celebrate the small and big wins. Share details with me directly. We have a Monthly Analytics Caucus and a monthly newsletter. This is a great chance to shout-out and share these wins as well.
    - We have a very young team (early career) and in some cases, young leaders. Please don't hesitate to ask me for help with hard conversations or other leadership challenges you have. That is what I am here for.
    - When you have a new joiner, remind me and I would love to have a 1:1 with them to get to know them. 
    

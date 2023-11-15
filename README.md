@@ -1,11 +1,13 @@
 # Working with Shay 
 
-This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf) had put together as the COO of Stripe and thought to myself, 'Where has this been all my life?'. Just simply brilliant. This document is a chance to share with you how I work and how you can best work with me. I look forward to having you as part of my team.
+I was inspired to create this document based on what [Claire Hughes Johnson](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf) had put together as the COO of Stripe. The purpose of this document is to share with you how I work and how you can best work with me. I look forward to having you as part of my team.
 
 ## Management Style
 
-* I value transparency. I will be as direct as I can with you. I am a straightforward leader and do not have time for games. For my leadership team, please carry this forward, as I expect you to embrace this as well.
-* I am an introvert who likes to think through problems before passing judgement or making decisions. Bring information and data to our discussions to help me assist you in complex decision making.
+* I value transparency. I will be as direct as I can, although I will admit that I am a massive introvert and have to constantly be diligent in practicing direct feedback. I am a straightforward, authentic leader. I expect my leads to also be transparent and direct.
+* As a scientist, I like facts and data. I dislike games or the manipulation of details.
+* I like to think through things before speaking. 
+* <i>Data or death.</i> Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements, especially when talking about engineering projects.
 * Collaboration and alignment is important. I do not try to make important decisions that impact our team in a black box. I will ask for your ideas and feedback. I may have an idea about an approach, but I will lean on my leadership team to bring points, facts, and data to our discussions to help inform the decision we make. If you do not bring ideas or feedback, I will make a decision with what data I have.
 * I get excited about creative change especially if it will bring new opportunity, efficiency, or ideas. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible. Actions I take will always be intentional and I will think through the outcome.
 * I will not be able to persist our culture alone. I have hired you as a leader to help me with this. Please proactively lean into transparent, intentional, data-driven, and inclusive dialogue with your teams.
@@ -13,7 +15,6 @@ This document is not my idea. I saw what [Claire Hughes Johnson](https://assets.
 * I dislike having to chase people for things they said they would do. Please be proactive and own items that you indicated you would. Follow through.
 * Vulnerability is everything. I am learning to be a better leader and contributor everyday. I do not know everything and I will ask questions. I expect you to do the same.
 * I get anxious when I am late for meetings. I also see it as disrespectful to continuously be late for meetings. I will try to send you a note if it looks like I am going to be late. I will do my best to be on time.
-* <i>Data or death.</i> Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements when possible, especially when talking about engineering projects.
 * I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
 * I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
 * I highly value proactivity and a willingness to own things. Don't wait for me to task you.

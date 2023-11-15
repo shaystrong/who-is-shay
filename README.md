@@ -18,6 +18,7 @@ I was inspired to create this document based on what [Claire Hughes Johnson](htt
 * I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
 * I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
 * I highly value proactivity and a willingness to own things. Don't wait for me to task you.
+* If I send a note on Slack, please acknowledge read-reciept with at least an emoji icon. Being hybrid + virtual + asychonrous can be lonely and unclear and I need to know you saw what I posted.
 
 ## Operating Approach
 

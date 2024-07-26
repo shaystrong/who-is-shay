@@ -9,7 +9,7 @@ I was inspired to create this document based on what [Claire Hughes Johnson](htt
 * I like to think through things before speaking. 
 * <i>Data or death.</i> Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements, especially when talking about engineering projects. I am a PhD scientist afterall.
 * Collaboration and alignment is important. I do not try to make important decisions that impact our team in a black box. I will ask for your ideas and feedback. I may have an idea about an approach, but I will lean on my leadership team to bring points, facts, and data to our discussions to help inform the decision we make. If you do not bring ideas or feedback, I will make a decision with what data I have.
-* I get excited about creative change especially if it will bring new opportunity, efficiency, or ideas. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible. Actions I take will always be intentional and I will think through the outcome.
+* I get excited about creative change especially if it will bring new opportunity, efficiency, or ideas. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible. Actions I take will always be intentional and I will think through the outcome. But I also admit that I can move fast on a decision.
 * I will not be able to persist our culture alone. I have hired you as a leader to help me with this. Please proactively lean into transparent, intentional, data-driven, and inclusive dialogue with your teams.
 * I trust you in the job for which you were hired. If I feel you or your team is lost or confused, I will step in to help or address this. It would be best for you to bring challenges to me before you get stuck here. I expect you to reach out with problems. I dislike being surprised by things we could have avoided earlier.
 * I dislike having to chase people for things they said they would do. Please be proactive and own items that you indicated you would. Follow through.
@@ -19,7 +19,10 @@ I was inspired to create this document based on what [Claire Hughes Johnson](htt
 * I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
 * I highly value proactivity and a willingness to own things. Don't wait for me to task you.
 * If I send a note on Slack, please acknowledge read-reciept with at least an emoji icon. Being hybrid + virtual + asychonrous can be lonely and unclear and I need to know you saw what I posted.
-
+* Over communicate! Let me know how things are going and where the pain is. Please don't wait for me to ask.
+* When I provide feedback, I am doing it to make you and the team better. Please use it as a gift. I will do the same if you give me any feedback as well.
+* If I provide you editorial comments in a document/slide deck and they are posed as questions, those are questions meant for you to address in the material directly. You do not need to answer me at a personal level (this irrationally irritates me). I am using a psuedo-socractic method.
+  
 ## Operating Approach
 
 * <b>For direct reports:</b> I prefer weekly 1:1s. This meeting is to stategically align on important items, plans, and tasks. I want to chat about your general well-being and needs/blockers you have with your team(s). I am trying to get better about keeping notes/agenda doc attached to the meeting invite. I have not been so good in the past. Let's use a joint document to track topics and initiatives. This meeting is your meeting and I love for you to come with topics. Put them in the document. For mid-year and end-of-year reviews, we will have a separate shared document with objectives and expectations for the next 6 months. We can also revisit this quarterly.

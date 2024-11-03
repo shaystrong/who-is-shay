@@ -4,7 +4,7 @@ I was inspired to create this document based on what [Claire Hughes Johnson](htt
 
 ## Management Style
 
-* I value transparency. I will be as direct as I can, although I will admit that I am a massive introvert and have to constantly be diligent in practicing direct feedback. I am a straightforward, authentic leader. I expect my leads to also be transparent and direct.
+* I value transparency. I will be as direct as I can, although I will admit that I am a massive introvert and have to constantly be diligent in practicing direct feedback. I expect my leads to also be transparent and direct.
 * As a scientist, I like facts and data. I dislike games or the manipulation of details.
 * I like to think through things before speaking. 
 * <i>Data or death.</i> Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements, especially when talking about engineering projects. I am a PhD scientist afterall.

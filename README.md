@@ -4,23 +4,25 @@ I was inspired to create this document based on what [Claire Hughes Johnson](htt
 
 ## Management Style
 
-* I value transparency. I will be as direct as I can, although I will admit that I am a massive introvert and have to constantly be diligent in practicing direct feedback. I expect my leads to also be transparent and direct.
-* As a scientist, I like facts and data. I dislike games or the manipulation of details.
-* I like to think through things before speaking. 
-* <i>Data or death.</i> Just kidding. But data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements, especially when talking about engineering projects. I am a PhD scientist afterall.
-* Collaboration and alignment is important. I do not try to make important decisions that impact our team in a black box. I will ask for your ideas and feedback. I may have an idea about an approach, but I will lean on my leadership team to bring points, facts, and data to our discussions to help inform the decision we make. If you do not bring ideas or feedback, I will make a decision with what data I have.
-* I get excited about creative change especially if it will bring new opportunity, efficiency, or ideas. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible. Actions I take will always be intentional and I will think through the outcome. But I also admit that I can move fast on a decision.
+* I value transparency. How I present myself at work is consistent with who I am outside of work. 
+* I value feedback, but recognize I have to constantly be diligent in practicing this. As an inherently shy person, giving & recieving direct feedback can be hard for me. But it is important. I expect my leadership team to also practice and improve how they give and recieve feedback. This is how our team becomes better.
+* As a scientist, I like facts and data. I dislike games or the manipulation of details. Be direct and provide supporting evidence.
+* I like to think through things before speaking. This means I may not immediately have a response or answer, but I will come back to you after thinking through it.
+* <i>Data or death.</i> Data is imperative for me to make decisions for the team or to help you with a problem or project. When you present ideas or information to me, be data-driven and quantitative if possible. Avoid qualitative assessements, especially when talking about engineering projects.
+* Collaboration and alignment is important in decision making; but I may make a decision without you. I *do not* try to make important decisions that impact our team in a black box. I will ask for your ideas and feedback. I may have an idea about an approach, but I will lean on my leadership team to bring points, facts, and data to our discussions to help inform the decision we make. If you do not bring ideas or feedback, I will make a decision with what data I have. We will have a better outcome if you can, therefore, provide relative information to support the outcome.
+* I get excited about creative change especially, if it will bring new opportunity, efficiency, or ideas. I can move fast on decision making. I moved my family sight-unseen to Finland from the US, for example. I will try to control myself when possible. Actions I take will always be intentional and I will think through the outcome. 
 * I will not be able to persist our culture alone. I have hired you as a leader to help me with this. Please proactively lean into transparent, intentional, data-driven, and inclusive dialogue with your teams.
 * I trust you in the job for which you were hired. If I feel you or your team is lost or confused, I will step in to help or address this. It would be best for you to bring challenges to me before you get stuck here. I expect you to reach out with problems. I dislike being surprised by things we could have avoided earlier.
 * I dislike having to chase people for things they said they would do. Please be proactive and own items that you indicated you would. Follow through.
-* Vulnerability is everything. I am learning to be a better leader and contributor everyday. I do not know everything and I will ask questions. I expect you to do the same.
+* Vulnerability is everything. I do not know everything and I will ask questions. I expect you to do the same.
 * I get anxious when I am late for meetings. I also see it as disrespectful to continuously be late for meetings. I will try to send you a note if it looks like I am going to be late. I will do my best to be on time.
 * I care about you as a person (and your work-life balance). I enjoy hearing about your hobbies, families, and projects outside of work.
+* Family is first. Always. A job is still just a job. On your death bed, you won't regret a bad powerpoint decision, but you will regret the time you didn't spend with your loved ones.
 * I am a visual learner and communicator. I appreciate whiteboarding, graphics, and sketches.
+* I am not a fan of monologues nor long Slack/text messages. My attention will drift and I may not read it. Start with an exec summary/key bullet takeaways. What is your intent?
 * I highly value proactivity and a willingness to own things. Don't wait for me to task you.
 * If I send a note on Slack, please acknowledge read-reciept with at least an emoji icon. Being hybrid + virtual + asychonrous can be lonely and unclear and I need to know you saw what I posted.
 * Over communicate! Let me know how things are going and where the pain is. Please don't wait for me to ask.
-* When I provide feedback, I am doing it to make you and the team better. Please use it as a gift. I will do the same if you give me any feedback as well.
 * If I provide you editorial comments in a document/slide deck and they are posed as questions, those are questions meant for you to address in the material directly. You do not need to answer me at a personal level (this irrationally irritates me). I am using a psuedo-socractic method.
   
 ## Operating Approach
